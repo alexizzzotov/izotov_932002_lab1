@@ -1,0 +1,10 @@
+C:\Users\why_t\Downloads\932001.IM.kovalev_aleksandr.laba1-main\lab1_izotov\bin\Debug\lab1_izotov.exe.config
+C:\Users\why_t\Downloads\932001.IM.kovalev_aleksandr.laba1-main\lab1_izotov\bin\Debug\lab1_izotov.exe
+C:\Users\why_t\Downloads\932001.IM.kovalev_aleksandr.laba1-main\lab1_izotov\bin\Debug\lab1_izotov.pdb
+C:\Users\why_t\Downloads\932001.IM.kovalev_aleksandr.laba1-main\lab1_izotov\obj\Debug\lab1_izotov.csproj.AssemblyReference.cache
+C:\Users\why_t\Downloads\932001.IM.kovalev_aleksandr.laba1-main\lab1_izotov\obj\Debug\lab1.Form1.resources
+C:\Users\why_t\Downloads\932001.IM.kovalev_aleksandr.laba1-main\lab1_izotov\obj\Debug\lab1_izotov.Properties.Resources.resources
+C:\Users\why_t\Downloads\932001.IM.kovalev_aleksandr.laba1-main\lab1_izotov\obj\Debug\lab1_izotov.csproj.GenerateResource.cache
+C:\Users\why_t\Downloads\932001.IM.kovalev_aleksandr.laba1-main\lab1_izotov\obj\Debug\lab1_izotov.csproj.CoreCompileInputs.cache
+C:\Users\why_t\Downloads\932001.IM.kovalev_aleksandr.laba1-main\lab1_izotov\obj\Debug\lab1_izotov.exe
+C:\Users\why_t\Downloads\932001.IM.kovalev_aleksandr.laba1-main\lab1_izotov\obj\Debug\lab1_izotov.pdb
